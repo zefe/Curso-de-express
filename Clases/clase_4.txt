@@ -26,3 +26,6 @@ Con esta funcionalidad creamos una estructura inicial, predeterminada para un nu
 
 NODE_ENV=production npm start   //error handler ver en modo produccion
 
+
+
+
