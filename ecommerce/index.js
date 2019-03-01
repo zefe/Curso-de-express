@@ -8,10 +8,13 @@ const path = require("path");
 app.use("/static", express.static(path.join(__dirname, "public")));
 
 const productsRouter = require('./routes/products');
+const productsApiRouter = require('./routes/api/products');
+
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "pug");
-app.use("/products", productsRouter);
 
+app.use("/products", productsRouter);
+app.use("api/products", productsApiRouter)
 //CON HANDLEBARS
 
 // const engines = require('consolidate');
