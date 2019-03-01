@@ -1,0 +1,12 @@
+USANDO PUG
+
+npm install --save pug
+
+ecommerce
+comentamos paara usar handlebars en la crpeta de ecommerce
+
+USANDO HANDLEBARS
+
+npm i -S handlebars
+
+

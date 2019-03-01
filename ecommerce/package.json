@@ -7,19 +7,13 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zefe/Curso-de-express.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zefe/Curso-de-express/issues"
-  },
-  "homepage": "https://github.com/zefe/Curso-de-express#readme",
   "dependencies": {
+    "consolidate": "^0.15.1",
     "express": "^4.16.4",
+    "handlebars": "^4.1.0",
     "pug": "^2.0.3"
   },
   "devDependencies": {

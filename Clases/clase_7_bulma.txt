@@ -1,0 +1,10 @@
+Creando nuestro layoutde productos usando Pug
+Para implementar templates con PUG, sólo bastará con instalar PUG con la instrucción npm i -D pug y definir el uso del view engine respectivo usando los middlewares de manera similar a como vimos antes con Handlebars.
+
+PUG incluye instrucciones que facilitan el trabajo con las vistas:
+
+extends: define un template base del que extiende el template actual.
+include: define la inclusión o importación de otro template.
+block: define un placeholder para el contenido de bloques en los que se insertarán partes de un template.
+
+more info:  https://bulma.io/alternative-to-bootstrap/
