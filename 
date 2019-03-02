@@ -1,0 +1,47 @@
+[33mcommit a33250233fc0ebfd9ebfaedd2ce1f199a9bb9bf7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zefe <intern.zeferino@relativity6.com>
+Date:   Thu Feb 28 23:55:04 2019 -0600
+
+    API REST
+
+[33mcommit d40fa2f0e939c2550a05b3138030dbe8b8b25a1e[m
+Author: zefe <intern.zeferino@relativity6.com>
+Date:   Thu Feb 28 23:07:22 2019 -0600
+
+    Templae engine PUG BULMA
+
+[33mcommit 3ac297108f7c39dec727386735ea2dad713bc772[m
+Author: zefe <intern.zeferino@relativity6.com>
+Date:   Thu Feb 28 00:18:05 2019 -0600
+
+    Template engine
+
+[33mcommit 7c57b0285e60e3088eab35e2ebdf4fb4fa8d5d39[m
+Author: zefe <intern.zeferino@relativity6.com>
+Date:   Mon Feb 25 23:38:15 2019 -0600
+
+    add file notes.txt
+
+[33mcommit 7e7e64f28d701eb2c7300bdad682df1f3b02a5a8[m
+Author: zefe <intern.zeferino@relativity6.com>
+Date:   Mon Feb 25 23:36:17 2019 -0600
+
+    Express aplication generation
+
+[33mcommit 10834c19b3912d7e0f5fc83b7974efd83c046d41[m
+Author: Zeferino Torres <intern.zeferino@relativity6.com>
+Date:   Tue Dec 18 13:18:34 2018 -0600
+
+    add express and nodemon
+
+[33mcommit 40c4971d6463b401fda44088624b46e93b9cbb66[m
+Author: Zeferino Torres <zefetorres@icloud.com>
+Date:   Tue Dec 18 11:28:01 2018 -0600
+
+    Update README.md
+
+[33mcommit 30a80de90478290b61723c6a05ff3ccb73ea8c09[m
+Author: Zeferino Torres <zefetorres@icloud.com>
+Date:   Tue Dec 18 11:27:45 2018 -0600
+
+    Initial commit
