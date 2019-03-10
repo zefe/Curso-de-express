@@ -2,8 +2,7 @@ const express = require("express");
 const router = express.Router();
 
 const ProductsService = require('../../services/product.service');
-
-const productService = new ProductsService();
+const productService = new ProductsService(); //llamamos el servicio
 
 
 router.get("/", async function(req, res, next) {

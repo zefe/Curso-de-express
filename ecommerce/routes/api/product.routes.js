@@ -1,13 +1,13 @@
 const express = require('express');
 const router = express.Router();
-const ProductsService = require('../../services/product.service');
 
+const ProductsService = require('../../services/product.service');
 const productService = new ProductsService();
 
+//CONTROLLERS
 
 router.get('/', async function(req, res, next) {
     const { tags } = req.query;
-    console.log('request', req);
 
     try {
         const products = await productService.getProducts({ tags });  //({ tags: query.tags })
@@ -23,7 +23,7 @@ router.get('/', async function(req, res, next) {
 
 router.get('/:productId', async function(req, res, next) {
     const { productId } = req.params;
-    console.log('request', req);
+    console.log('request', req.params);
 
     try {
         const product = await productService.getProduct({ productId });
