@@ -1,4 +1,4 @@
-const productsMocks = require('../utils/mocks/products');
+//const productsMocks = require('../utils/mocks/products');
 const MongoLib = require('../lib/mongo')
 
 //Aca lo unico que nos interesa es Logica de negocio
